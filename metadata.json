@@ -1,0 +1,11 @@
+{
+  "name": "Remix Remix Remix Remix Remix SURAKSHAAR",
+  "description": "Train Safer. Work Smarter. Build a Safer Tomorrow. Industrial Safety + AR + AI Vocational Training Platform with DGMS/IS compliance, real-time hazard simulation, and Gemini multimodal safety evaluation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

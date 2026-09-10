@@ -1,0 +1,242 @@
+{
+  "trainee@surakshaar.org": {
+    "uid": "trainee_master_01",
+    "email": "trainee@surakshaar.org",
+    "displayName": "Arjun Verma",
+    "passwordHash": "8541562e61187a251a5f7f2c97163b5e5f609681117b6ced499c5ccf8f08c929ba86877d459285c21863ff694423a6d733feeac46e9a91302d9a34bb6a0e455c",
+    "salt": "2a9afc1272b9673d9d50ea961f6fa8b4",
+    "createdAt": "2026-09-01T00:00:00.000Z",
+    "lastLoginAt": "2026-09-10T02:43:35.396Z",
+    "traineeId": "TR-26041",
+    "level": 3,
+    "xp": 1450,
+    "role": "trainee",
+    "status": "active",
+    "assignedModules": [
+      "scenario-1-ppe",
+      "scenario-2-fire",
+      "scenario-3-electrical",
+      "scenario-4-mining",
+      "scenario-5-machinery"
+    ],
+    "disabledModules": [],
+    "progressRate": 85,
+    "safetyScore": 92,
+    "quizScore": 88,
+    "completedModules": [
+      "scenario-1-ppe",
+      "scenario-2-fire",
+      "scenario-3-electrical"
+    ],
+    "lastActive": "2026-09-10T02:43:35.396Z"
+  },
+  "newminer_1788773372810@surakshaar.org": {
+    "uid": "trainee_e464cf4b52be",
+    "email": "newminer_1788773372810@surakshaar.org",
+    "displayName": "Ramesh Kumar",
+    "passwordHash": "f2966787133bfde39d1297b46516e6befc24579c20bfdf54bcff562c75b8ce65bbbbc2ca7d38262c8cc6147efb921beeb2d5024d6d9ae25c195eb3b878963b54",
+    "salt": "fca8560f88d5b3ef64df43e2c650c6e3",
+    "createdAt": "2026-09-07T09:29:32.822Z",
+    "lastLoginAt": "2026-09-07T09:29:32.822Z",
+    "traineeId": "TR-56548",
+    "level": 1,
+    "xp": 0,
+    "role": "trainee",
+    "status": "active"
+  },
+  "rahulkrsah9334@gmail.com": {
+    "uid": "trainee_8237b9335215",
+    "email": "rahulkrsah9334@gmail.com",
+    "displayName": "rahulkrsah9334",
+    "passwordHash": "e4346c226cf0db4ab22c1b2f5aeeb8410592f0ef3593d91c95006b3785ed007fe57c8a0bf78d64670b45767790282fe9242a57332c3761e9c0e4080e898060ca",
+    "salt": "f615b09bbd9cf31a2a33bd197ab35496",
+    "createdAt": "2026-09-07T09:30:55.793Z",
+    "lastLoginAt": "2026-09-07T09:30:55.793Z",
+    "traineeId": "TR-82353",
+    "level": 1,
+    "xp": 0,
+    "role": "trainee",
+    "status": "active"
+  },
+  "miner_test_1788773606898@surakshaar.org": {
+    "uid": "trainee_69beea0c37e2",
+    "email": "miner_test_1788773606898@surakshaar.org",
+    "displayName": "Suresh Hansda",
+    "passwordHash": "438d4fd5d4fcacebec189c533c22d72d1cc46d2bd3a35f284a022c6f0dcc4e44062a2e04cf9e1e09d93dd6df1f8e21d80dcbf196dddadcc4af3a3f73bd9fe010",
+    "salt": "34ec306f811a0bc6615fe1f9003fdac6",
+    "createdAt": "2026-09-07T09:33:26.910Z",
+    "lastLoginAt": "2026-09-07T09:33:26.910Z",
+    "traineeId": "TR-79482",
+    "level": 1,
+    "xp": 0,
+    "role": "trainee",
+    "status": "active"
+  },
+  "trainer@surakshaar.org": {
+    "uid": "trainer_ccd54e1cc18f",
+    "email": "trainer@surakshaar.org",
+    "displayName": "Dr. Rajesh Sharma (Lead Safety Instructor)",
+    "passwordHash": "ba2570fe56e56032ec90c212e86e10410ceac352cfa6741c8fa79959e575509b0a45ffc50813ac1845c197f6d44e44effae1cd6dcec32afdb7b4ca7180ba2567",
+    "salt": "4e9d9016050a504bb9fe7a9ba67f2dde",
+    "role": "trainer",
+    "status": "active",
+    "createdAt": "2026-09-01T00:00:00.000Z",
+    "lastLoginAt": "2026-09-07T10:05:51.208Z",
+    "traineeId": "TR-INST-04",
+    "level": 5,
+    "xp": 5200
+  },
+  "admin@surakshaar.org": {
+    "uid": "admin_3e18c47978da",
+    "email": "admin@surakshaar.org",
+    "displayName": "Chief Safety Officer (Admin)",
+    "passwordHash": "2cd068b31729fed37f8e05a147b05d7bf08c0671baedc09e8a2dce3607ed547797deb155d23d02c1e10d4579413eaa93a6825230bd45fd3af0e5e11738a2d8e4",
+    "salt": "ba6ee434d48931c53fe7aea0101f0646",
+    "role": "admin",
+    "status": "active",
+    "createdAt": "2026-09-01T00:00:00.000Z",
+    "lastLoginAt": "2026-09-10T02:51:29.026Z",
+    "level": 10,
+    "xp": 9999,
+    "lastActive": "2026-09-10T02:51:29.026Z"
+  },
+  "ramesh.soren@surakshaar.org": {
+    "uid": "trainee_9c34afd4ee7e",
+    "email": "ramesh.soren@surakshaar.org",
+    "displayName": "Ramesh Soren",
+    "passwordHash": "2ff7e855f8b05115bf2679145545814b6eedcf8bf2279c62169b1722b268dbc1436dbf15d892fde43f2aa1766d235eea2379ba6957813176936e22c782fa4a3a",
+    "salt": "cdbd42048af537dd23e3f03426754185",
+    "role": "trainee",
+    "status": "active",
+    "createdAt": "2026-09-01T00:00:00.000Z",
+    "lastLoginAt": "2026-09-10T02:21:26.397Z",
+    "assignedModules": [
+      "scenario-1-ppe",
+      "scenario-2-fire",
+      "scenario-3-electrical"
+    ],
+    "disabledModules": [
+      "scenario-4-mining",
+      "scenario-5-machinery"
+    ],
+    "progressRate": 60,
+    "safetyScore": 85,
+    "quizScore": 80,
+    "completedModules": [
+      "scenario-1-ppe",
+      "scenario-2-fire"
+    ],
+    "lastActive": "2026-09-09T02:21:26.390Z",
+    "traineeId": "TR-2024-88",
+    "level": 2,
+    "xp": 980
+  },
+  "sunita.k@surakshaar.org": {
+    "uid": "trainee_b2467835f166",
+    "email": "sunita.k@surakshaar.org",
+    "displayName": "Sunita Kumari",
+    "passwordHash": "de3375687d85b018ba3da4547f1325bf29114b71dbceee1915c11c2ed613c7b82393cb4f30fcfdfd2e6f99b0b4ed1d2d43704784b209dc7ac78f3ba70277b8ec",
+    "salt": "e6ffd3b256da9addb209b873c8fdfdad",
+    "role": "trainee",
+    "status": "active",
+    "createdAt": "2026-09-01T00:00:00.000Z",
+    "lastLoginAt": "2026-09-10T02:21:26.404Z",
+    "assignedModules": [
+      "scenario-1-ppe",
+      "scenario-2-fire",
+      "scenario-3-electrical",
+      "scenario-4-mining",
+      "scenario-5-machinery"
+    ],
+    "disabledModules": [],
+    "progressRate": 100,
+    "safetyScore": 96,
+    "quizScore": 94,
+    "completedModules": [
+      "scenario-1-ppe",
+      "scenario-2-fire",
+      "scenario-3-electrical",
+      "scenario-4-mining",
+      "scenario-5-machinery"
+    ],
+    "lastActive": "2026-09-09T19:21:26.397Z",
+    "traineeId": "TR-2024-92",
+    "level": 5,
+    "xp": 2200
+  },
+  "rajesh.m@surakshaar.org": {
+    "uid": "trainee_3575a2ec5bdd",
+    "email": "rajesh.m@surakshaar.org",
+    "displayName": "Rajesh Mahato",
+    "passwordHash": "b844992984b53a95239805dee1053f2f18e44a142c067ae20102ffd11e80e0fe31ec55962b8488594cbbb69c131a081eb801764f9c97ff7db8cf4079e9c4774c",
+    "salt": "c8a8eda82f0f6319ccddfa920c488bc6",
+    "role": "trainee",
+    "status": "suspended",
+    "createdAt": "2026-09-01T00:00:00.000Z",
+    "lastLoginAt": "2026-09-10T02:21:26.411Z",
+    "assignedModules": [
+      "scenario-1-ppe"
+    ],
+    "disabledModules": [
+      "scenario-2-fire"
+    ],
+    "progressRate": 20,
+    "safetyScore": 55,
+    "quizScore": 60,
+    "completedModules": [],
+    "lastActive": "2026-09-05T02:21:26.404Z",
+    "traineeId": "TR-2024-45",
+    "level": 1,
+    "xp": 300
+  },
+  "priya.h@surakshaar.org": {
+    "uid": "trainee_d8e431ef0e3b",
+    "email": "priya.h@surakshaar.org",
+    "displayName": "Priya Hansda",
+    "passwordHash": "5c71f319f708fbe2eda34f4ccbf02912372ebcca0738aa7f052442ccd067b485d6a26081f831a942cb13f99820893a213fc79750e3b9671f93a1e7c3c3e6c0f4",
+    "salt": "4b808a7bf46c2a627ed2e4f99872818d",
+    "role": "trainee",
+    "status": "active",
+    "createdAt": "2026-09-01T00:00:00.000Z",
+    "lastLoginAt": "2026-09-10T02:21:26.417Z",
+    "assignedModules": [
+      "scenario-1-ppe",
+      "scenario-2-fire"
+    ],
+    "disabledModules": [],
+    "progressRate": 40,
+    "safetyScore": 78,
+    "quizScore": 75,
+    "completedModules": [
+      "scenario-1-ppe"
+    ],
+    "lastActive": "2026-09-08T02:21:26.411Z",
+    "traineeId": "TR-2024-77",
+    "level": 2,
+    "xp": 650
+  },
+  "vikram.test@surakshaar.org": {
+    "uid": "trainee_f0872d158f12",
+    "email": "vikram.test@surakshaar.org",
+    "displayName": "Vikram Singh",
+    "passwordHash": "6e98e3b99141448a5c080628402ff8b66ea9200ce5122362b3f4c2db94452225a075d3b6119db6564b04961ae5ec3e2f7f4d418f664feddea42f084b183955b0",
+    "salt": "15fa92a4bec155e735bbdca2040d3907",
+    "role": "trainee",
+    "status": "active",
+    "createdAt": "2026-09-10T02:51:37.745Z",
+    "lastLoginAt": "2026-09-10T02:51:50.015Z",
+    "traineeId": "TR-9901",
+    "level": 1,
+    "xp": 0,
+    "assignedModules": [
+      "scenario-1-ppe",
+      "scenario-2-fire"
+    ],
+    "disabledModules": [],
+    "progressRate": 0,
+    "safetyScore": 100,
+    "quizScore": 0,
+    "completedModules": [],
+    "lastActive": "2026-09-10T02:51:50.015Z"
+  }
+}
